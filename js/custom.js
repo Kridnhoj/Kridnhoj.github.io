@@ -99,12 +99,13 @@ $(function(){
     $('#home').backstretch([
        "images/home-bg-slideshow1.jpg", 
        "images/home-bg-slideshow2.jpg",
-	
+		"images/home_bg_slideshow3.jpg",
+		"images/home_bg_slideshow4.jpg"
 		
 	
         ],  {duration: 4000, fade: 750});
     });
-  })
+  });
 
 });
 
